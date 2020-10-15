@@ -39,3 +39,4 @@ get_cur_dir_path() {
 
 echo "[$today] [TIME] $(get_current_time) [START]"
 
+#a try for git operation
