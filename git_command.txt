@@ -1,0 +1,143 @@
+git clone https://github.com/huian-quant/huian-data.git
+git status
+git status
+git init
+git init test
+git add ./test/test.sh
+git config
+git add testdate.sh
+git add ./testdate.sh
+git add /home/yigewang/testdate.sh
+git add README
+git add
+git add test.sh
+git add test.sh
+git status
+git commit
+git commit test.sh
+git status
+git log
+git remote -v
+git remote -v
+git branch
+git branch testing
+git checkout testing
+git checkout master
+git checkout testing
+git commit -m 'add testgit.txt'
+git config --global user.email "396121246@qq.com"
+git config --global user.name "yigewang"
+git commit -m 'add testgit.txt'
+git status
+git branch -d testing
+git checkout master
+git branch -d testing
+git branch
+git status -s
+git clone https://github.com/huian-quant/huian-data.git
+git status
+git status
+git add testgit.txt
+git status
+git add testgit.txt
+git status
+git commit -am
+git commit -a
+git status
+git commit -m
+git commit -a "11"
+git clone https://github.com/huian-quant/huian-portforio.git
+git commit -a "11"python3.7 fetch_complicated_range_daily_data.py -e WIND -p BaseData -t ASHAREDESCRIPTION -a $start_date -b $end_datAfterTrade -r $run_typ
+git status
+git status
+git status
+git status
+git add test.sh
+git status
+git add ..
+git add .
+git status
+git commit -m'add a new file and modify a new line in test.sh'
+git diff
+git status
+git add testdate.sh
+git status
+git diff
+git diff testdate.sh
+git status
+git commit -m 'add a new line in the bottom of testdate.sh'
+git status
+git diff test.sh
+git diff test.sh
+git status
+git add test.sh
+git commit -m'delete one meaningless line'
+git status
+git log
+git reset --hard HEAD^
+git log
+git reset --hard 163b1a
+git log
+git reflog
+git diff test.sh
+git status
+git checkout -- test.sh
+git status
+git add test.sh
+git status
+git reset HEAD test.sh
+git status
+git checkout -- test.sh
+git status
+git log
+git remote add origin git@github.com:Eeeeeeger/test.git
+git push -u origin master
+git checkout -b newb
+git branch
+git status
+git add readme.txt
+git commit -m'new txt added'
+git checkout branch
+git checkout master
+git merge newb
+git add readme.txt
+git merge newb
+git status
+git commit -m'new file in master branch'
+git merge newb
+git branch -d newb
+git push -u origin master
+git status
+git add readme2.txt
+git commit -m'Linux command history for learning git'
+git push -u origin master
+git status
+git checkout -- readme.txt
+git log
+git checkout -b dev origin/dev
+git branch
+git status
+git checkout -b dev
+git branch
+git push -u origin dev
+git add readme.txt
+git commit -m'conflict from dev'
+git status
+git push origin dev
+git switch master
+git checkout master
+git add readme.txt
+git commit -m 'change from master'
+git merge dev
+git status
+git add readme.txt
+git commit -m 'conflict fixed'
+git log --graph
+git log --graph --pretty=oneline --abbrev-commit
+git push origin master
+git pull
+git status
+git add fetch_range_daily_data.py
+git commit -m'change my dir'
+git add fetch_complicated_range_daily_data.py
+git commit -m 'change my dir'
